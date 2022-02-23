@@ -1,4 +1,4 @@
-# Data-Exploration-in-Python-
+# Data Exploration in Python
 House price prediction Nova Scotia
 
 Data exploration and use of unsupervised learning in Python to predict house prices in the Nova Scotia Real Estate Market.
